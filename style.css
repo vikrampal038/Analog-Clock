@@ -47,7 +47,7 @@ body{
     aspect-ratio: 1/1;
     border-radius: 50%;
     background: linear-gradient(45deg, #f5f7fa, #c3cfe2);
-    border: 10px solid #9b9b9b;
+    border: 10px solid #000000;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.2), inset 0 0 15px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: center;
